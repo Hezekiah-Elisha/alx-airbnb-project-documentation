@@ -1,0 +1,1 @@
+Review the project requirements for the Airbnb Clone backend
